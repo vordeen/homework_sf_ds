@@ -1,5 +1,5 @@
 # My data science projects
-From the [Skilfactory Data Science course](https://github.com/vordeen/homework_sf_ds)
+From the [Skilfactory Data Science course](https://skillfactory.ru/courses/data-science)
 
 ## Проекты
 
